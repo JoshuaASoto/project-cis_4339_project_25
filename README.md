@@ -23,4 +23,4 @@ https://documenter.getpostman.com/view/23539438/2s83f5ouyA
 Use the link to see all the endpoints for our backend.
 
 ## NOTE
-Database conenction is done, use for code analysis
+Database conenction is down, use for code analysis
